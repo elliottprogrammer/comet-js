@@ -1,4 +1,4 @@
-# JavaScript Comet
+# comet.js - A JavaScript & HTML Canvas Comet animation
 
 A lightweight JavaScript & HTML5 canvas demo that renders a glowing comet head with a particle‑based tail. The comet arcs across the screen, fades out before the edge, and respawns. A small control panel lets you tune emission, speed, arc height, particle lifetime, and more in real time.
 
