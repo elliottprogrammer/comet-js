@@ -13,6 +13,11 @@ A lightweight JavaScript & HTML5 canvas demo that renders a glowing comet head w
 - On CodePen: [https://codepen.io/melliatto/pen/VYjXjbV](https://codepen.io/melliatto/pen/VYjXjbV)
 - You can also view a variation of this Comet integrated into the top Hero section of my [dev portfolio website](https://elliottprogrammer.com): [https://elliottprogrammer.com](https://elliottprogrammer.com)
 
+### Screenshot/cast
+
+![comet js-demo](https://github.com/user-attachments/assets/d85d3e4d-4c6b-4db0-b784-cd92bed2ee53)
+
+
 ## Getting Started
 1. Clone the repo
 2. Open `index.html` in your browser
